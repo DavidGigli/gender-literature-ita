@@ -1,0 +1,167 @@
+Giuseppe Cesare Abba | Abba, Giuseppe Cesare  | 702527 | 1800 | italiano | 1838 | 1910 | M | M|scrittore|patriota
+Luisa Accati | Accati, Luisa  | 4454738 | 1900 | italiana | 1942 |  | F | F|storica|antropologa
+Giuseppe Adami | Adami, Giuseppe  | 1780055 | 1800 | italiano | 1878 | 1946 | M | M|drammaturgo|librettista
+Augusto Agabiti | Agabiti, Augusto  | 2962333 | 1800 | italiano | 1879 | 1918 | M | M|teosofo|non trovata
+Vittoria Aganoor | Aganoor, Vittoria  | 126668 | 1800 | italiana | 1855 | 1910 | F | F|poetessa|non trovata
+Paolo Agaraff | Agaraff, Paolo  | 302433 | 2000 | italiano | 1969 |  | M | M|scrittore|autore di fantascienza
+Adolfo Albertazzi | Albertazzi, Adolfo  | 841131 | 1900 | italiano | 1865 | 1924 | M | M|scrittore|non trovata
+Pilo Albertelli | Albertelli, Pilo  | 1577746 | 1900 | italiano | 1907 | 1944 | M | M|insegnante|partigiano
+Aleardo Aleardi | Aleardi, Aleardo  | 46622 | 1800 | italiano | 1812 | 1878 | M | M|poeta|politico
+Luigi Amabile | Amabile, Luigi  | 1706977 | 1800 | italiano | 1828 | 1892 | M | M|medico|storico
+Michele Amari | Amari, Michele  | 200521 | 1800 | italiano | 1806 | 1889 | M | M|storico|politico
+Federico Amodeo | Amodeo, Federico  | 21525 | 1800 | italiano | 1859 | 1946 | M | M|matematico|non trovata
+Antonino Anile | Anile, Antonino  | 1843422 | 1900 | italiano | 1869 | 1943 | M | M|anatomista|letterato
+Camillo Antona Traversi | Antona Traversi, Camillo  | 4107132 | 1800 | italiano | 1857 | 1934 | M | M|commediografo|critico letterario
+Luigi Antonelli | Antonelli, Luigi  | 2642956 | 1800 | italiano | 1877 | 1942 | M | M|drammaturgo|non trovata
+Mario Appelius | Appelius, Mario  | 779246 | 1900 | italiano | 1892 | 1946 | M | M|giornalista|conduttore radiofonico
+Emanuele Artom | Artom, Emanuele  | 1810177 | 1900 | italiano | 1915 | 1944 | M | M|partigiano|storico
+Pellegrino Artusi | Artusi, Pellegrino  | 144813 | 1800 | italiano | 1820 | 1911 | M | M|scrittore|gastronomo
+Avancinio Avancini | Avancini, Avancinio  | 4993827 | 1800 | italiano | 1866 | 1939 | M | M|scrittore|giornalista
+Ida Baccini | Baccini, Ida  | 4454818 | 1800 | italiana | 1850 | 1911 | F | F|scrittrice|giornalista
+Niccolò Bacigalupo | Bacigalupo, Niccolò  | 1497844 | 1900 | italiano | 1837 | 1904 | M | M|poeta|drammaturgo
+Cesare Balbo | Balbo, Cesare  | 248006 | 1800 | italiano | 1789 | 1853 | M | M|politico|scrittore
+Giuseppe Bandi | Bandi, Giuseppe  | 772588 | 1800 | italiano | 1834 | 1894 | M | M|patriota|scrittore
+Pierangelo Baratono | Baratono, Pierangelo  | 5200613 | 1900 | italiano | 1880 | 1927 | M | M|giornalista|scrittore
+Berto Barbarani | Barbarani, Berto  | 1371051 | 1900 | italiano | 1872 | 1945 | M | M|poeta|non trovata
+Eugenio Barbarich | Barbarich, Eugenio  | 1113847 | 1800 | italiano | 1863 | 1931 | M | M|generale|scrittore
+Ulisse Barbieri | Barbieri, Ulisse  | 3554512 | 1800 | italiano | 1842 | 1899 | M | M|drammaturgo|scrittore
+Carmela Baricelli | Baricelli, Carmela  | 3250554 | 1800 | italiana | 1861 | 1946 | F | F|insegnante|giornalista
+Anton Giulio Barrili | Barrili, Anton Giulio  | 445666 | 1800 | italiano | 1836 | 1908 | M | M|patriota|scrittore
+Ambrogio Bazzero | Bazzero, Ambrogio  | 4050178 | 1800 | italiano | 1851 | 1882 | M | M|scrittore|poeta
+Giambattista Bazzoni | Bazzoni, Giambattista  | 1886533 | 1800 | italiano | 1803 | 1850 | M | M|scrittore|patriota
+Antonella Beccaria | Beccaria, Antonella  | 4455158 | 1900 | italiana | 1973 |  | F | F|giornalista|scrittrice
+Giacomo Bellacchi | Bellacchi, Giacomo  | 23198 | 1800 | italiano | 1838 | 1924 | M | M|matematico|non trovata
+Giuseppe Gioachino Belli | Belli, Giuseppe Gioachino  | 50708 | 1800 | italiano | 1791 | 1863 | M | M|poeta|non trovata
+Vincenzo Bellini | Bellini, Vincenzo  | 109726 | 1800 | italiano | 1801 | 1835 | M | M|compositore|non trovata
+Enrico Bellone | Bellone, Enrico  | 254172 | 1900 | italiano | 1938 | 2011 | M | M|fisico|storico della scienza
+Elia Benamozegh | Benamozegh, Elia  | 407310 | 1800 | italiano | 1823 | 1900 | M | M|rabbino|non trovata
+Giovanni Berchet | Berchet, Giovanni  | 116018 | 1800 | italiano | 1783 | 1851 | M | M|poeta|scrittore
+Guglielmo Berchet | Berchet, Guglielmo  | 1569825 | 1800 | italiano | 1833 | 1913 | M | M|patriota|politico
+Camillo Berneri | Berneri, Camillo  | 1911531 | 1900 | italiano | 1897 | 1937 | M | M|filosofo|scrittore
+Vittorio Bersezio | Bersezio, Vittorio  | 622426 | 1800 | italiano | 1828 | 1900 | M | M|scrittore|giornalista
+Giovanni Bertacchi | Bertacchi, Giovanni  | 548649 | 1800 | italiano | 1869 | 1942 | M | M|poeta|docente
+Domenico Berti | Berti, Domenico  | 760965 | 1800 | italiano | 1820 | 1897 | M | M|saggista|politico
+Guido Biagi | Biagi, Guido  | 6906057 | 1800 | italiano | 1855 | 1925 | M | M|bibliotecario|scrittore
+Arturo Bianchi | Bianchi, Arturo  | 6027547 | 1900 | italiano | 1900 | -1 | M | M|militare|insegnante
+Carlo Bianco | Bianco, Carlo  | 2463902 | 1900 | italiano | 1911 | 2010 | M | M|avvocato|filosofo
+Pasquale Binazzi | Binazzi, Pasquale  | 1400910 | 1900 | italiano | 1873 | 1944 | M | M|pubblicista|anarchico
+Carlo Bini | Bini, Carlo  | 2971704 | 1800 | italiano | 1806 | 1842 | M | M|scrittore|patriota
+Luigi Blanch | Blanch, Luigi  | 2660015 | 1800 | italiano | 1784 | 1872 | M | M|economista|politico
+Pietro Blaserna | Blaserna, Pietro  | 23338 | 1800 | italiano | 1836 | 1918 | M | M|fisico|matematico
+Gerolamo Boccardo | Boccardo, Gerolamo  | 1702048 | 1800 | italiano | 1829 | 1904 | M | M|economista|politico
+Renzo Ildebrando Bocchi | Bocchi, Renzo Ildebrando  | 2938894 | 1900 | italiano | 1913 | 1944 | M | M|giornalista|poeta
+Giovanni Boine | Boine, Giovanni  | 48732 | 1900 | italiano | 1887 | 1917 | M | M|poeta|scrittore
+Arrigo Boito | Boito, Arrigo  | 2064556 | 1800 | italiano | 1842 | 1918 | M | M|letterato|librettista
+Giorgio Bolza | Bolza, Giorgio  | 4977952 | 1800 | italiano | 1880 | 1945 | M | M|commediografo|poeta
+Francesco Augusto Bon | Bon, Francesco Augusto  | 1898038 | 1800 | italiano | 1788 | 1858 | M | M|drammaturgo|non trovata
+Carlo Bonacini | Bonacini, Carlo  | 23350 | 1800 | italiano | 1867 | 1944 | M | M|matematico|fisico
+Romualdo Bonfadini | Bonfadini, Romualdo  | 4485303 | 1800 | italiano | 1831 | 1899 | M | M|giornalista|magistrato
+Ruggiero Bonghi | Bonghi, Ruggiero  | 217443 | 1800 | italiano | 1826 | 1895 | M | M|filologo|politico
+Armando Borghi | Borghi, Armando  | 1199661 | 1900 | italiano | 1882 | 1968 | M | M|politico|anarchico
+Ferdinando Bosio | Bosio, Ferdinando  | 5249945 | 1800 | italiano | 1824 | 1879 | M | M|religioso|insegnante
+Carlo Botta | Botta, Carlo  | 190394 | 1800 | italiano | 1766 | 1837 | M | M|storico|politico
+Giovanni Bovio | Bovio, Giovanni  | 870556 | 1800 | italiano | 1837 | 1903 | M | M|filosofo|politico
+Libero Bovio | Bovio, Libero  | 481733 | 1900 | italiano | 1883 | 1942 | M | M|poeta|scrittore
+Umberto Bozzini | Bozzini, Umberto  | 1638263 | 1900 | italiano | 1876 | 1921 | M | M|avvocato|poeta
+Roberto Bracco | Bracco, Roberto  | 1203765 | 1800 | italiano | 1861 | 1943 | M | M|giornalista|scrittore
+Gianni Brera | Brera, Gianni  | 298657 | 1900 | italiano | 1919 | 1992 | M | M|giornalista|scrittore
+Angelo Brofferio | Brofferio, Angelo  | 839329 | 1800 | italiano | 1802 | 1866 | M | M|poeta|politico
+Rita Brunetti | Brunetti, Rita  | 2214333 | 1900 | italiana | 1890 | 1942 | F | F|fisica|non trovata
+Giuseppe Bruni | Bruni, Giuseppe  | 5731474 | 1900 | italiano | 1873 | 1946 | M | M|chimico|docente
+Ernesto Buonaiuti | Buonaiuti, Ernesto  | 438388 | 1900 | italiano | 1881 | 1946 | M | M|presbitero|storico
+Bruno Buozzi | Buozzi, Bruno  | 286379 | 1900 | italiano | 1881 | 1944 | M | M|sindacalista|politico
+Alessandra Buschi | Buschi, Alessandra  | 4570164 | 1900 | italiana | 1963 |  | F | F|scrittrice|poeta
+Ferruccio Busoni | Busoni, Ferruccio  | 37508 | 1800 | italiano | 1866 | 1924 | M | M|compositore|pianista
+Enrico Annibale Butti | Butti, Enrico Annibale  | 4058671 | 1800 | italiano | 1868 | 1912 | M | M|scrittore|drammaturgo
+Antonio Caccianiga | Caccianiga, Antonio  | 3413454 | 1800 | italiano | 1823 | 1909 | M | M|politico|patriota
+Carlo Cafiero | Cafiero, Carlo  | 24474 | 1800 | italiano | 1846 | 1892 | M | M|anarchico|non trovata
+Achille Giovanni Cagna | Cagna, Achille Giovanni  | 674855 | 1800 | italiano | 1847 | 1931 | M | M|scrittore|non trovata
+Manfredo Cagni | Cagni, Manfredo  | 6069409 | 1800 | italiano | 1834 | 1907 | M | M|generale|scrittore
+Enrico Calandra | Calandra, Enrico  | 5037199 | 1800 | italiano | 1877 | 1946 | M | M|critico d'arte|storico dell'arte
+Guido Calza | Calza, Guido  | 3558467 | 1900 | italiano | 1888 | 1946 | M | M|archeologo|non trovata
+Mario Camis | Camis, Mario  | 3014766 | 1900 | italiano | 1878 | 1946 | M | M|fisiologo|presbitero
+Dino Campana | Campana, Dino  | 47247 | 1900 | italiano | 1885 | 1932 | M | M|poeta|non trovata
+Luigi Campolonghi | Campolonghi, Luigi  | 870517 | 1900 | italiano | 1876 | 1944 | M | M|giornalista|scrittore
+Luigi Canina | Canina, Luigi  | 82456 | 1800 | italiano | 1795 | 1856 | M | M|archeologo|architetto
+Stanislao Cannizzaro | Cannizzaro, Stanislao  | 22934 | 1800 | italiano | 1826 | 1910 | M | M|chimico|politico
+Alberto Cantoni | Cantoni, Alberto  | 666447 | 1800 | italiano | 1841 | 1904 | M | M|scrittore|non trovata
+Giovanni Cantoni | Cantoni, Giovanni  | 565911 | 1900 | italiano | 1938 |  | M | M|scrittore|non trovata
+Cesare Cantù | Cantù, Cesare  | 21603 | 1800 | italiano | 1804 | 1895 | M | M|storico|letterato
+Gino Capponi | Capponi, Gino  | 653026 | 1800 | italiano | 1792 | 1876 | M | M|politico|scrittore
+Luigi Capuana | Capuana, Luigi  | 97828 | 1800 | italiano | 1839 | 1915 | M | M|scrittore|critico letterario
+Enrichetta Caracciolo | Caracciolo, Enrichetta  | 2593649 | 1800 | italiana | 1821 | 1901 | F | F|patriota|scrittrice
+Enrichetta Carafa Capecelatro | Carafa Capecelatro, Enrichetta  | 4037906 | 1800 | italiana | 1863 | 1941 | F | F|poetessa|scrittrice
+Giulio Carcano | Carcano, Giulio  | 1691675 | 1800 | italiano | 1812 | 1884 | M | M|politico|scrittore
+Emanuel Carnevali | Carnevali, Emanuel  | 2108689 | 1900 | italiano | 1897 | 1942 | M | M|poeta|scrittore
+Guido Carocci | Carocci, Guido  | 2085520 | 1800 | italiano | 1851 | 1916 | M | M|storico|non trovata
+David Castelli | Castelli, David  | 2974984 | 1800 | italiano | 1836 | 1901 | M | M|storico|biblista
+Ettore Castiglioni | Castiglioni, Ettore  | 2035708 | 1900 | italiano | 1908 | 1944 | M | M|alpinista|non trovata
+Alfredo Catalani | Catalani, Alfredo  | 1786526 | 1800 | italiano | 1854 | 1893 | M | M|compositore|non trovata
+Carlo Cattaneo | Cattaneo, Carlo  | 107875 | 1800 | italiano | 1801 | 1869 | M | M|patriota|filosofo
+Giuseppe Cava | Cava, Giuseppe  | 1195542 | 1900 | italiano | 1870 | 1940 | M | M|poeta|scrittore
+Felice Cavallotti | Cavallotti, Felice  | 306003 | 1800 | italiano | 1842 | 1898 | M | M|politico|poeta
+Ciro Caversazzi | Caversazzi, Ciro  | 3446617 | 1800 | italiano | 1865 | 1947 | M | M|letterato|non trovata
+Enrico Caviglia | Caviglia, Enrico  | 571200 | 1800 | italiano | 1862 | 1945 | M | M|generale|politico
+Giovanni Celoria | Celoria, Giovanni  | 23559 | 1900 | italiano | 1842 | 1920 | M | M|astronomo|politico
+Giovanni Cena | Cena, Giovanni  | 1571530 | 1800 | italiano | 1870 | 1917 | M | M|poeta|scrittore
+Gaetano Carlo Chelli | Chelli, Gaetano Carlo  | 3684011 | 1800 | italiano | 1847 | 1904 | M | M|romanziere|non trovata
+Luigi Chiarelli | Chiarelli, Luigi  | 777146 | 1900 | italiano | 1880 | 1947 | M | M|commediografo|scrittore
+Giuseppe Chiarini | Chiarini, Giuseppe  | 1237285 | 1800 | italiano | 1833 | 1908 | M | M|letterato|critico letterario
+Pietro Chiesa | Chiesa, Pietro  | 5455739 | 1800 | italiano | 1858 | 1915 | M | M|politico|non trovata
+Emanuele Ciaceri | Ciaceri, Emanuele  | 3895347 | 1900 | italiano | 1869 | 1944 | M | M|storico|non trovata
+Domenico Ciampoli | Ciampoli, Domenico  | 2291973 | 1800 | italiano | 1852 | 1929 | M | M|scrittore|bibliotecario
+Galeazzo Ciano | Ciano, Galeazzo  | 21581 | 1900 | italiano | 1903 | 1944 | M | M|diplomatico|politico
+Giorgio Cicogna | Cicogna, Giorgio  | 2018041 | 1900 | italiano | 1899 | 1932 | M | M|scrittore|scienziato
+Delfino Cinelli | Cinelli, Delfino  | 4346484 | 1900 | italiano | 1889 | 1942 | M | M|scrittore|traduttore
+Giovanni Cittadella | Cittadella, Giovanni  | 1665192 | 1800 | italiano | 1806 | 1884 | M | M|politico|non trovata
+Tommaso Claps | Claps, Tommaso  | 2357156 | 1800 | italiano | 1871 | 1945 | M | M|giurista|poeta
+Igino Cocchi | Cocchi, Igino  | 3544701 | 1800 | italiano | 1827 | 1913 | M | M|geologo|paleontologo
+Pietro Colletta | Colletta, Pietro  | 19250 | 1800 | italiano | 1775 | 1831 | M | M|patriota|storico
+Eugenio Colorni | Colorni, Eugenio  | 312832 | 1900 | italiano | 1909 | 1944 | M | M|filosofo|politico
+Domenico Comparetti | Comparetti, Domenico  | 1480417 | 1800 | italiano | 1835 | 1927 | M | M|filologo|non trovata
+Orso Mario Corbino | Corbino, Orso Mario  | 339912 | 1800 | italiano | 1876 | 1937 | M | M|fisico|politico
+Giovanni Maria Cornoldi | Cornoldi, Giovanni Maria  | 1905914 | 1800 | italiano | 1822 | 1892 | M | M|gesuita|accademico
+Enrico Corradini | Corradini, Enrico  | 266294 | 1900 | italiano | 1865 | 1931 | M | M|scrittore|politico
+Pietro Cossa | Cossa, Pietro  | 2909780 | 1800 | italiano | 1830 | 1881 | M | M|drammaturgo|non trovata
+Andrea Costa | Costa, Andrea  | 708054 | 1800 | italiano | 1851 | 1910 | M | M|politico|non trovata
+Francesco Crispi | Crispi, Francesco  | 47263 | 1800 | italiano | 1818 | 1901 | M | M|patriota|politico
+Vincenzo Cuoco | Cuoco, Vincenzo  | 201051 | 1800 | italiano | 1770 | 1823 | M | M|scrittore|giurista
+Eugenio Curiel | Curiel, Eugenio  | 1977335 | 1900 | italiano | 1912 | 1945 | M | M|partigiano|fisico
+Antonio Curti | Curti, Antonio  | 3449599 | 1800 | italiano | 1858 | 1945 | M | M|giornalista|storico
+Francesco Cusani | Cusani, Francesco  | 6601205 | 1900 | italiano | 1802 | 1879 | M | M|storico|scrittore
+Lucio D'Ambra | D'Ambra, Lucio  | 2951440 | 1900 | italiano | 1880 | 1939 | M | M|scrittore|regista
+Alessandro D'Ancona | D'Ancona, Alessandro  | 403397 | 1800 | italiano | 1835 | 1914 | M | M|scrittore|critico letterario
+Edmondo De Amicis | De Amicis, Edmondo  | 1721 | 1800 | italiano | 1846 | 1908 | M | M|scrittore|giornalista
+Augusto De Angelis | De Angelis, Augusto  | 1705497 | 1900 | italiano | 1888 | 1944 | M | M|scrittore|giornalista
+Abele De Blasio | De Blasio, Abele  | 1687461 | 1800 | italiano | 1858 | 1945 | M | M|antropologo|non trovata
+Filippo De Boni | De Boni, Filippo  | 3495611 | 1800 | italiano | 1816 | 1870 | M | M|giornalista|scrittore
+Lauro De Bosis | De Bosis, Lauro  | 233613 | 1900 | italiano | 1901 | 1931 | M | M|scrittore|poeta
+Angelo De Gubernatis | De Gubernatis, Angelo  | 467179 | 1800 | italiano | 1840 | 1913 | M | M|scrittore|linguista
+Alessandro Della Seta | Della Seta, Alessandro  | 2140243 | 1900 | italiano | 1879 | 1944 | M | M|archeologo|storico dell'arte
+Isidoro Del Lungo | Del Lungo, Isidoro  | 97053 | 1800 | italiano | 1841 | 1927 | M | M|storico|scrittore
+Federico Delpino | Delpino, Federico  | 2691713 | 1800 | italiano | 1833 | 1905 | M | M|botanico|non trovata
+Olinto De Pretto | De Pretto, Olinto  | 298756 | 1800 | italiano | 1857 | 1921 | M | M|fisico|imprenditore
+Federico De Roberto | De Roberto, Federico  | 99157 | 1800 | italiano | 1861 | 1927 | M | M|scrittore|non trovata
+Francesco De Sanctis | De Sanctis, Francesco  | 152802 | 1800 | italiano | 1817 | 1883 | M | M|scrittore|critico letterario
+Salvatore Di Giacomo | Di Giacomo, Salvatore  | 2296710 | 1900 | italiano | 1860 | 1934 | M | M|poeta|drammaturgo
+Alessio Di Giovanni | Di Giovanni, Alessio  | 489332 | 1800 | italiano | 1872 | 1946 | M | M|poeta|drammaturgo
+Giovanni Battista Donati | Donati, Giovanni Battista  | 23692 | 1800 | italiano | 1826 | 1873 | M | M|matematico|astronomo
+Federico Donaver | Donaver, Federico  | 1984669 | 1800 | italiano | 1861 | 1915 | M | M|storico|educatore
+Gaetano Donizetti | Donizetti, Gaetano  | 2052 | 1800 | italiano | 1797 | 1848 | M | M|compositore|non trovata
+Paola Drigo | Drigo, Paola  | 483106 | 1900 | italiana | 1876 | 1938 | F | F|scrittrice|non trovata
+Pericle Ducati | Ducati, Pericle  | 489099 | 1900 | italiano | 1880 | 1944 | M | M|archeologo|non trovata
+Augusto Elia | Elia, Augusto  | 705815 | 1800 | italiano | 1829 | 1919 | M | M|patriota|militare
+Pio Emanuelli | Emanuelli, Pio  | 2577577 | 1900 | italiano | 1888 | 1946 | M | M|astronomo|storico
+Federigo Enriques | Enriques, Federigo  | 23698 | 1900 | italiano | 1871 | 1946 | M | M|matematico|storico della scienza
+Luigi Fabbri | Fabbri, Luigi  | 1873492 | 1900 | italiano | 1877 | 1935 | M | M|anarchico|saggista
+Giovanni Faldella | Faldella, Giovanni  | 2005039 | 1800 | italiano | 1846 | 1928 | M | M|scrittore|giornalista
+Pietro Fanfani | Fanfani, Pietro  | 1430925 | 1800 | italiano | 1815 | 1879 | M | M|scrittore|filologo
+Horst Fantazzini | Fantazzini, Horst  | 3065729 | 1900 | italiano | 1939 | 2001 | M | M|criminale|scrittore
+Salvatore Farina | Farina, Salvatore  | 1332414 | 1800 | italiano | 1846 | 1918 | M | M|scrittore|giornalista
+Antonio Favaro | Favaro, Antonio  | 23712 | 1800 | italiano | 1847 | 1922 | M | M|matematico|storico della scienza
+Carlotta Ferrari | Ferrari, Carlotta  | 2693396 | 1800 | italiana | 1830 | 1907 | F | F|poetessa|compositrice
+Severino Ferrari | Ferrari, Severino  | 2212340 | 1800 | italiano | 1856 | 1905 | M | M|poeta|critico letterario
+Guglielmo Ferrero | Ferrero, Guglielmo  | 742361 | 1800 | italiano | 1871 | 1942 | M | M|storico|scrittore
+Jacopo Ferretti | Ferretti, Jacopo  | 1328129 | 1800 | italiano | 1784 | 1852 | M | M|librettista|poeta
+Dina Ferri | Ferri, Dina  | 1606226 | 1900 | italiana | 1908 | 1930 | F | F|poetessa|non trovata
+Bruno Filippi | Filippi, Bruno  | 2688748 | 1900 | italiano | 1900 | 1919 | M | M|terrorista|anarchico
