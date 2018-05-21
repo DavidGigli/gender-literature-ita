@@ -44,4 +44,4 @@ model = Word2Vec.load(libri2vecpath)
 vec = model.wv['alice']
 print(vec)
 #chiediamo qual è il più simile
-print(model.most_similar('alice'))
+print(model.most_similar('alice',topn=20)) #prende i 20  migliori
