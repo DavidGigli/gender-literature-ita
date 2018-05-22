@@ -1,4 +1,5 @@
-
+#questa funzione legge da un CSV un elenco di nomi anche ripetuti e crea una lista 
+#con un elenco di nomi senza ripetizioni
 def lista_nomi(path):
 
 	import csv
