@@ -10,7 +10,7 @@ def page_exists(title):  # funzione che ritorna -1 se la pagina non esiste, altr
     data = {"action": "query", "prop": "revisions", "rvlimit": 1, "rvprop": "content", "format": "json",
             "titles": title}
     raw = urlopen(API_URL, urlencode(data).encode()).read()
-    res = json.loads(raw)
+    res = json.loads(raw.decode('utf-8'))
     page_id = next(iter(res["query"]["pages"]))
     return page_id
 
@@ -18,7 +18,7 @@ def pagina_wiki(title):
     data = {"action": "query", "prop": "revisions", "rvlimit": 1, "rvprop": "content", "format": "json",
             "titles": title}
     raw = urlopen(API_URL, urlencode(data).encode()).read()
-    res = json.loads(raw)
+    res = json.loads(raw.decode('utf-8'))
     text = res["query"]["pages"][page_exists(title)]["revisions"][0]["*"]
     return text
 
